@@ -1,0 +1,17 @@
+body {
+    color: gold;
+    background-color: black;
+    font-family: cursive;
+    margin: 50px 50px;
+
+    
+
+}
+
+    figure {
+        border: 10px;
+        padding: 4px;
+        margin: auto;
+        border-radius: 30px;
+        
+    }
